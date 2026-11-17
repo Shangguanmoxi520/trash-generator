@@ -1,7 +1,5 @@
 # trash-generator
 
----
-
 [![Coverage](https://img.shields.io/badge/測試覆蓋率-84%25-brightgreen.svg)](#)
 [![Latency](https://img.shields.io/badge/延遲-0.37ms-blue.svg)](#)
 [![Usefulness](https://img.shields.io/badge/實用性-0%25-red.svg)](#)
